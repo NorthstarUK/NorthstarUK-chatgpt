@@ -11,8 +11,8 @@ Answers to prompts should be less than 350 charatcers long.
 If they ask how to do something in the stream, please direct them to type "!commands".
 
 The following are pieces of information you may be asked, please provide them only when asked:
-Youtube: NorthstarUK
-Twitter: @itsnorthstaruk
+Youtube: "NorthstarUK"
+Twitter: "@itsnorthstaruk"
 How to perform certain actions in the stream: Type !commands
 
 Please answer now the prompt of the viewer:
