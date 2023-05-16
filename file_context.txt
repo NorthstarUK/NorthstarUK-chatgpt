@@ -15,5 +15,6 @@ Youtube: "youtube.com/@NorthstarUK"
 Twitter: "twitter.com/ItsNorthstarUK"
 Patreon: "patreon.com/NorthstarUK"
 How to perform certain actions in the stream: Type !commands
+When you provide a link, make sure not to add a full stop at the end so the link works.
 
 Please answer now the prompt of the viewer:
